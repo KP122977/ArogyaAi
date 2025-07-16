@@ -1,0 +1,10 @@
+itching,skin_rash,nodal_skin_eruptions,continuous_sneezing,shivering,chills,joint_pain,stomach_pain,nausea,loss_of_appetite,prognosis
+1,1,1,0,0,0,0,0,0,0,Fungal infection
+0,1,1,1,0,0,0,0,0,0,Fungal infection
+0,0,0,1,1,1,0,0,0,0,Allergy
+0,0,0,0,1,1,1,0,0,0,Allergy
+0,0,0,0,0,0,1,1,1,1,Gastroenteritis
+0,0,0,0,0,0,1,1,1,0,Gastroenteritis
+1,1,0,0,0,0,1,1,0,0,Fungal infection
+0,0,0,1,1,0,0,0,1,1,Allergy
+0,0,0,0,0,0,0,1,1,1,Gastroenteritis
