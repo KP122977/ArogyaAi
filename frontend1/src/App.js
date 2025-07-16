@@ -6,6 +6,9 @@ import Footer from "./components/Footer";
 import HomePage from "./components/HomePage";
 import DiseasePredictor from "./components/DiseasePredictor";
 
+<h1 className="text-4xl font-bold text-blue-600">✅ Tailwind is now working!</h1>
+
+
 function App() {
   return (
     <Router>
